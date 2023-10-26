@@ -1,0 +1,17 @@
+{
+  "name": "aula-poo",
+  "version": "1.0.0",
+  "description": "Curso de Programador Back End, Programação Orientada ao Objeto, typescript.",
+
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cris",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
